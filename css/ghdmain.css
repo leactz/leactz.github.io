@@ -292,6 +292,28 @@ FOOTER
 }
 
 /******
+FEEDBACK PAGE
+******/
+
+#thank-you {
+ margin: 0 auto;
+ margin-top: 60px;
+}
+
+h3 a {
+  color: #f17fad;
+  text-shadow: none
+}
+
+h3 a:hover {
+  color: #f9cadb;
+  text-decoration: none;
+  text-shadow: -1px -1px #f17fad;
+}
+
+
+
+/******
 MEDIA QUERIES FOR SMALL SCREENS
 ******/
 
@@ -364,7 +386,7 @@ MEDIA QUERIES FOR SMALL SCREENS
 
   #icons-nest {
   justify-content: center;
-}
+  }
 
 
 }
