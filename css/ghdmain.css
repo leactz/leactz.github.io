@@ -7,6 +7,10 @@ CUSTOM STYLES BY LEACTZ AT GRATEFUL HEART DESIGN
 GLOBAL BASICS
 ******/
 
+html {
+  overflow-x: hidden;
+}
+
 /******
 BODY
 ******/
@@ -14,6 +18,8 @@ BODY
 body {
   font-family: 'Raleway', sans-serif;
   padding-top: 30px;
+  width: 100vw;
+  max-width: 100vw;
 }
 
 /******
